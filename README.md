@@ -6,4 +6,4 @@ http://localhost:3000/api_four/v1.0
 
 Here you can see multiple API folders for large projects
 
-To run : npm run dev
+To run : npm start
